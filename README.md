@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently studying for a Bachelor of Computer Systems.<br>👯 I’m looking to collaborate on a team project.<br>🤝 I’m looking for help with finding a job/ internship.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about my detail <br>⚡ Fun fact: I have a huge passion for computers.
+🔭 I’m currently studying for a Bachelor of Computer Systems.<br>👯 I’m looking to collaborate on a team project.<br>🤝 I’m looking for help with finding a job/ internship.<br>🌱 I’m currently learning Computer Science.<br>💬 Ask me about my detail <br>⚡ Fun fact: I have a huge passion for computers.
 
 
 ## 🌐 Socials:
